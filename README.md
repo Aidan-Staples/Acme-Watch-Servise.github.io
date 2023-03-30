@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body style="background-color:rgb(126, 126, 126);">
 
@@ -19,5 +19,3 @@ font-weight: bold;
 }
 </style>
 </body>
-
-</html>
